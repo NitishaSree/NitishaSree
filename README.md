@@ -1,6 +1,3 @@
-<h1 align="center">Hi 👋, I'm Nitisha Sree</h1>
-<h3 align="center">Data Science & ML Enthusiast</h3>
-
 # 👩‍💻 Nitisha Sree
 
 ## 🚀 About Me
