@@ -68,10 +68,8 @@ Smart home automation system using CNN-based gesture recognition.
 
 ## 🌐 Connect With Me
 
-<p>
-<a href="https://github.com/NitishaSree">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-</p>
+- Email: nitishasreevenkatesan@gmail.com
+- LinkedIn: https://www.linkedin.com/in/nitisha-reddy-66a515395/
+- GitHub: https://github.com/NitishaSree
 
 ---
