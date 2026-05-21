@@ -33,6 +33,9 @@ Analyzes airline operational data to identify delay and cancellation trends.
 ### 🌱 Market Growth Analysis for Meat Substitutes
 Explores market trends and consumer insights using data analysis techniques.
 
+### 🎬 Netflix Show Clustering
+Clusters Netflix titles based on genre, rating, type, and release year using KMeans clustering and data visualization techniques.
+
 ### 🖐️ Hand Gesture Based Advanced Home Automation Using CNN
 Smart home automation system using hand gesture recognition and CNN models.
 
