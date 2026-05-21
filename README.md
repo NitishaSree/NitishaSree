@@ -1,34 +1,58 @@
 <h1 align="center">Hi 👋, I'm Nitisha Sree</h1>
-<h3 align="center">Data Science • Machine Learning • Deep Learning Enthusiast</h3>
+<h3 align="center">Data Science & ML Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=25&duration=3000&color=36BCF7&center=true&vCenter=true&width=600&lines=Machine+Learning+Enthusiast;Data+Science+Student;Deep+Learning+Explorer;Python+Developer" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=25&duration=3000&color=36BCF7&center=true&vCenter=true&width=700&lines=Data+Science+%26+Machine+Learning;Deep+Learning+Explorer;Business+Analytics+Student;AI+Enthusiast;Python+Developer" />
 </p>
 
 ---
 
 ## 🚀 About Me
-- 🌱 Currently learning Deep Learning & AI
-- 📊 Passionate about Data Analytics and Visualization
-- 🤖 Interested in Machine Learning & Computer Vision
-- 💡 Love solving real-world problems using data
-- 📫 Reach me on GitHub: NitishaSree
+
+🎓 Master of Science in Business Analytics and Artificial Intelligence  
+📍 The University of Texas at Dallas, Richardson, Texas, USA  
+
+🎓 Bachelor of Technology in Computer Science Engineering  
+📍 Sri Krishna College of Technology, Tamil Nadu, India  
+
+🌱 Passionate about solving real-world problems using AI and Data Science  
+
+📊 Interested in:
+- Artificial Intelligence
+- Predictive Analytics
+- Deep Learning
+- Data Visualization
+- Real-world ML Applications
 
 ---
 
-## 🛠️ Tech Stack
+## 🧠 Skills
 
 ### Languages & Tools
 <p>
-<img src="https://skillicons.dev/icons?i=python,tensorflow,sklearn,pandas,numpy,mysql,jupyter,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=python,tensorflow,sklearn,mysql,git,github,vscode" />
 </p>
+
+### Libraries & Domains
+- Python
+- Machine Learning
+- Deep Learning
+- Data Analysis
+- Data Visualization
+- Time Series Forecasting
+- Computer Vision
+- SQL
+- Pandas
+- NumPy
+- Scikit-learn
+- TensorFlow/Keras
 
 ---
 
 ## 📌 Featured Projects
 
 ### 📈 Stock Price Prediction Using Time Series
-Predicts stock prices using LSTM and Time Series forecasting techniques.
+Predicts future stock prices using LSTM and Time Series forecasting techniques.
 
 ### 🌧️ Rainfall Prediction Using ML Models
 Machine Learning project for predicting rainfall using weather data.
@@ -40,7 +64,7 @@ Clusters Netflix titles using KMeans clustering and PCA visualization.
 Analyzes airline delays, cancellations, and operational trends.
 
 ### 🌱 Market Growth Analysis for Meat Substitutes
-Explores consumer and market growth trends using data analytics.
+Explores market growth and consumer trends using data analytics.
 
 ### 🖐️ Hand Gesture Based Home Automation Using CNN
 Smart home automation system using CNN-based gesture recognition.
@@ -50,8 +74,9 @@ Smart home automation system using CNN-based gesture recognition.
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NitishaSree&show_icons=true&theme=tokyonight" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NitishaSree&theme=tokyonight" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=NitishaSree&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NitishaSree&theme=tokyonight&hide_border=true" height="180"/>
 </p>
 
 ---
@@ -59,7 +84,7 @@ Smart home automation system using CNN-based gesture recognition.
 ## 📈 Most Used Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NitishaSree&layout=compact&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NitishaSree&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
