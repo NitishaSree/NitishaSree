@@ -1,19 +1,16 @@
 <h1 align="center">Hi 👋, I'm Nitisha Sree</h1>
 <h3 align="center">Data Science & ML Enthusiast</h3>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=25&duration=3000&color=36BCF7&center=true&vCenter=true&width=700&lines=Data+Science+%26+Machine+Learning;Deep+Learning+Explorer;Business+Analytics+Student;AI+Enthusiast;Python+Developer" />
-</p>
-
----
+# 👩‍💻 Nitisha Sree
 
 ## 🚀 About Me
+Data Science & ML Enthusiast.
 
-🎓 Master of Science in Business Analytics and Artificial Intelligence  
-📍 The University of Texas at Dallas, Richardson, Texas, USA  
+Welcome to my GitHub profile! I'm passionate about Data Science, Machine Learning, Deep Learning, and Artificial Intelligence. I enjoy building data-driven solutions and working on real-world projects involving predictive analytics, computer vision, time series forecasting, and data visualization.
 
-🎓 Bachelor of Technology in Computer Science Engineering  
-📍 Sri Krishna College of Technology, Tamil Nadu, India  
+Master's of Science in Business Analytics and Artificial Intelligence at The University of Texas at Dallas, with a strong foundation in Computer Science Engineering from Sri Krishna College of Technology, India.
+
+---
 
 🌱 Passionate about solving real-world problems using AI and Data Science  
 
